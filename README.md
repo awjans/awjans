@@ -2,21 +2,19 @@
 
 ## About Me
 
-Bachelor's and Master's (BAM) Computer Science student at University of Hawaiʻi at Mānoa. Graduating in Fall 2025 with Bachelor's degree, and Fall 2026 with Master's degree.
-
 Results-oriented with extensive experience in systems integration, process control and improvement, and digital and business transformation to control costs and streamline operations. Drive automation and continuous improvement through technological advancements to ensure compliance, governance, cybersecurity, and business continuity.
+
+Bachelor's and Master's (BAM) Computer Science student at University of Hawaiʻi at Mānoa. Graduating in Fall 2025 with Bachelor's degree, and Fall 2026 with Master's degree.
 
 ## 🎓 Education
 
-- **M.S. Computer Science** - University of Hawaiʻi at Mānoa (2024-2026)
+- **M.S. Computer Science** - University of Hawaiʻi at Mānoa (2024-2027)
 - **B.S. Computer Science** - University of Hawaiʻi at Mānoa (2023-2025)
-- **A.S. Computer Science** - Leeward Community College (2022-2023)
 
 ## 💼 Current Roles
 
 - **Teaching Assistant** - University of Hawaiʻi at Mānoa (ICS 101)
 - **Contributor** - Sahana Foundation Eden Project
-- **Member** - Christ Lutheran Church (Audio/Visual & IT Support)
 
 ## 🔭 Interests
 
@@ -48,7 +46,7 @@ Results-oriented with extensive experience in systems integration, process contr
 ## 📫 How to Reach Me
 
 - **Website:** [andrea.jans.org](https://andrea.jans.org)
-- **Email:** awjans@hawaii.edu
+- **Email:** andreaw@jans.org
 - **LinkedIn:** [linkedin.com/in/andreawjans](https://linkedin.com/in/andreawjans)
 - **GitHub:** [@awjans](https://github.com/awjans)
 
