@@ -4,12 +4,12 @@
 
 Results-oriented with extensive experience in systems integration, process control and improvement, and digital and business transformation to control costs and streamline operations. Drive automation and continuous improvement through technological advancements to ensure compliance, governance, cybersecurity, and business continuity.
 
-Bachelor's and Master's (BAM) Computer Science student at University of Hawaiʻi at Mānoa. Graduating in Fall 2025 with Bachelor's degree, and Fall 2026 with Master's degree.
+Master's Computer Science student at University of Hawaiʻi at Mānoa. Graduating in Spring 2027.
 
 ## 🎓 Education
 
+- **B.S. Computer Science** - University of Hawaiʻi at Mānoa
 - **M.S. Computer Science** - University of Hawaiʻi at Mānoa (2024-2027)
-- **B.S. Computer Science** - University of Hawaiʻi at Mānoa (2023-2025)
 
 ## 💼 Current Roles
 
