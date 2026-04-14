@@ -1,4 +1,4 @@
-# Hi there, I'm Andrea Jans 👋
+# Andrea Jans
 
 ## About Me
 
