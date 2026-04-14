@@ -9,12 +9,6 @@ Master's Computer Science student at University of Hawaiʻi at Mānoa. Graduatin
 ## 🎓 Education
 
 - **B.S. Computer Science** - University of Hawaiʻi at Mānoa
-- **M.S. Computer Science** - University of Hawaiʻi at Mānoa (2024-2027)
-
-## 💼 Current Roles
-
-- **Teaching Assistant** - University of Hawaiʻi at Mānoa (ICS 101)
-- **Contributor** - Sahana Foundation Eden Project
 
 ## 🔭 Interests
 
