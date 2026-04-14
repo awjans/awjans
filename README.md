@@ -2,9 +2,7 @@
 
 ## About Me
 
-Results-oriented with extensive experience in systems integration, process control and improvement, and digital and business transformation to control costs and streamline operations. Drive automation and continuous improvement through technological advancements to ensure compliance, governance, cybersecurity, and business continuity.
-
-Master's Computer Science student at University of Hawaiʻi at Mānoa. Graduating in Spring 2027.
+Results-oriented with extensive experience in systems integration, process control and improvement, and digital and business transformation to control costs and streamline operations. Drives automation and continuous improvement through technological advancements to ensure compliance, governance, cybersecurity, and business continuity.
 
 ## 🎓 Education
 
@@ -20,7 +18,7 @@ Master's Computer Science student at University of Hawaiʻi at Mānoa. Graduatin
 
 ## 💻 Technical Skills
 
-**Languages:** C, C++, C#, Java, Python, Javascript, PowerShell, ASP.NET, PHP, HTML, CSS, SQL, T-SQL, PL/SQL
+**Languages:** C, C++, C#, Java, Python, JavaScript, TypeScript, PowerShell, PHP, HTML, CSS, SQL, T-SQL, PL/SQL
 
 **Frameworks:** Node.js, React.js, BootStrap, jQuery, Laravel, Meteor, Haystack AI
 
@@ -39,10 +37,9 @@ Master's Computer Science student at University of Hawaiʻi at Mānoa. Graduatin
 
 ## 📫 How to Reach Me
 
-- **Website:** [andrea.jans.org](https://andrea.jans.org)
-- **Email:** andreaw@jans.org
 - **LinkedIn:** [linkedin.com/in/andreawjans](https://linkedin.com/in/andreawjans)
 - **GitHub:** [@awjans](https://github.com/awjans)
+- **Website:** [andrea.jans.org](https://andrea.jans.org)
 
 ## 📊 GitHub Stats
 
