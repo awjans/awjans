@@ -31,7 +31,7 @@ Software engineer and IT leader with 30+ years of experience building and optimi
 - Transfer Merit Scholarship (2023)
 - Phi Theta Kappa (2023)
 
-## Other Projects
+## 🗂️ Other Projects
 
 - **[HakinaTech](https://github.com/HakinaTech)**
     - [CableTrack.pro](https://github.com/HakinaTech/cabletrack.pro)
