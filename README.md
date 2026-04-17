@@ -31,10 +31,16 @@ Software engineer and IT leader with 30+ years of experience building and optimi
 - Transfer Merit Scholarship (2023)
 - Phi Theta Kappa (2023)
 
+## Other Projects
+
+- **[HakinaTech](https://github.com/HakinaTech)**
+    - [CableTrack.pro](https://github.com/HakinaTech/cabletrack.pro)
+    - [Wolter Weddings](https://github.com/HakinaTech/wolterweddings)
+    - [Complexity Consulting](https://github.com/HakinaTech/complexityconsulting)
+
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [linkedin.com/in/andreawjans](https://linkedin.com/in/andreawjans)
-- **GitHub:** [@awjans](https://github.com/awjans)
 - **Website:** [andrea.jans.org](https://andrea.jans.org)
 
 ---
