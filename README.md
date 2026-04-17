@@ -1,8 +1,8 @@
 # Andrea Jans
 
-## About Me
+## 👩‍💻 About Me
 
-Results-oriented with extensive experience in systems integration, process control and improvement, and digital and business transformation to control costs and streamline operations. Drives automation and continuous improvement through technological advancements to ensure compliance, governance, cybersecurity, and business continuity. Aligns technical solutions, business objectives, and teams to achieve operational excellence, scalable solutions, and efficiency. Delivers technical support, software development, modeling, networking, and portfolio management.
+Software engineer and IT leader with 30+ years of experience building and optimizing systems across industries. Combines deep technical expertise in full-stack development, databases, and infrastructure with a proven track record of leading teams and delivering measurable business impact — including $200K+ in annual savings at American Electric Company. Completed a B.S. in Computer Science at UH Mānoa, with published research in AI-assisted software effort estimation and an NSF fellowship in data engineering.
 
 ## 🎓 Education
 
