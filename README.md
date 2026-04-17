@@ -24,7 +24,7 @@ Software engineer and IT leader with 30+ years of experience building and optimi
 **Toolsets:** Visual Studio, IntelliJ IDEA, VS Code, git/GitHub, make
 **Operating Systems:** Windows, MacOS, Linux, Unix
 
-## 🏆 Recent Awards
+## 🏆 Awards
 
 - W. Wesley and Hiromi Peterson Student Support Endowment (2025)
 - DESCARTES Fellowship (2024)
