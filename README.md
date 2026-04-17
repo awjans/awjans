@@ -18,14 +18,10 @@ Software engineer and IT leader with 30+ years of experience building and optimi
 
 ## 💻 Technical Skills
 
-**Languages:** C, C++, C#, Java, Python, JavaScript, TypeScript, PowerShell, PHP, HTML, CSS, XML, XSLT, SQL, T-SQL, PL/SQL
-
-**Frameworks:** Node.js, React.js, BootStrap, jQuery, Laravel, Meteor, Haystack AI
-
+**Languages:** C, C++, C#, Java, Python, JavaScript, TypeScript, PowerShell, Bash, PHP, HTML, CSS, XML, XSLT, SQL, T-SQL, PL/SQL
+**Frameworks:** Node.js, React.js, BootStrap, jQuery, Laravel, Haystack AI
 **Databases:** MS SQL Server, Oracle RDBMS, Oracle MySQL, PostgreSQL, MongoDB
-
-**Tools:** Visual Studio, IntelliJ IDEA, VS Code, git/GitHub, make
-
+**Toolsets:** Visual Studio, IntelliJ IDEA, VS Code, git/GitHub, make
 **Operating Systems:** Windows, MacOS, Linux, Unix
 
 ## 🏆 Recent Awards
